@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/DATA"
+        android:layout_width="422dp"
+        android:layout_height="717dp"
+        android:baselineAligned="false"
+        android:text="DATA_PLACED_HERE"
+        android:textSize="50dp" />
+
+</LinearLayout>
